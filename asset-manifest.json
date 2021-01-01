@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BurgerTask/static/css/main.e5629965.chunk.css",
+    "main.js": "/BurgerTask/static/js/main.d91b62fa.chunk.js",
+    "main.js.map": "/BurgerTask/static/js/main.d91b62fa.chunk.js.map",
+    "runtime-main.js": "/BurgerTask/static/js/runtime-main.33e44e32.js",
+    "runtime-main.js.map": "/BurgerTask/static/js/runtime-main.33e44e32.js.map",
+    "static/js/2.45f626be.chunk.js": "/BurgerTask/static/js/2.45f626be.chunk.js",
+    "static/js/2.45f626be.chunk.js.map": "/BurgerTask/static/js/2.45f626be.chunk.js.map",
+    "static/js/3.ec4798c3.chunk.js": "/BurgerTask/static/js/3.ec4798c3.chunk.js",
+    "static/js/3.ec4798c3.chunk.js.map": "/BurgerTask/static/js/3.ec4798c3.chunk.js.map",
+    "index.html": "/BurgerTask/index.html",
+    "static/css/main.e5629965.chunk.css.map": "/BurgerTask/static/css/main.e5629965.chunk.css.map",
+    "static/js/2.45f626be.chunk.js.LICENSE.txt": "/BurgerTask/static/js/2.45f626be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.33e44e32.js",
+    "static/js/2.45f626be.chunk.js",
+    "static/css/main.e5629965.chunk.css",
+    "static/js/main.d91b62fa.chunk.js"
+  ]
+}
